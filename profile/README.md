@@ -1,4 +1,4 @@
-## Group working on the upgrade of the ALICE Fast Interaction Trigger Front-End Electronics.
+### Group working on the upgrade of the ALICE Fast Interaction Trigger Front-End Electronics.
 
 <!--
 
