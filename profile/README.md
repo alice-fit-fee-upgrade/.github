@@ -1,5 +1,5 @@
 
-Fast Interaction Trigger Front-End Electronics Upgrade for the ALICE Experiment at CERN.
+This group is collaborating on the Fast Interaction Trigger (FIT) Front-End Electronics Upgrade for the ALICE Experiment at CERN.
 
 <!--
 
