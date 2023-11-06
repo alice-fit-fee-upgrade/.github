@@ -1,6 +1,5 @@
-## Hi there 👋
-
-Group working on the ALICE FIT FEE upgrade project.
+# Hi there 👋
+# Group working on the ALICE FIT FEE upgrade project.
 
 <!--
 
