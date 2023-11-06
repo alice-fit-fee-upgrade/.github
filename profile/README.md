@@ -1,4 +1,4 @@
-## Group working on the ALICE FIT FEE upgrade project.
+## Group working on the upgrade of the ALICE Fast Interaction Trigger electronics.
 
 <!--
 
