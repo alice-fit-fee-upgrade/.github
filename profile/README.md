@@ -1,6 +1,7 @@
-### Fast Interaction Trigger Front-End Electronics Upgrade for the ALICE Experiment at CERN.
+
 
 <!--
+### Fast Interaction Trigger Front-End Electronics Upgrade for the ALICE Experiment at CERN.
 
 **Here are some ideas to get you started:**
 
