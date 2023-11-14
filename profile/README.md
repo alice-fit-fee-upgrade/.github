@@ -1,6 +1,6 @@
 
 ## About the project
-This group collaborates on the Fast Interaction Trigger (FIT) Front-End Electronics Upgrade for the ALICE Experiment at CERN. The main contributors are members of the ALICE-PL consortium Warsaw University of Technology, AGH University of Technology, Institute of Nuclear Physics Polish Academy of Sciences, and National Centre of Nuclear Research.  
+This group collaborates on the Fast Interaction Trigger (FIT) Front-End Electronics Upgrade for the ALICE Experiment at CERN. The main contributors are members of the ALICE-PL consortium Warsaw University of Technology, AGH University of Science and Technology, Institute of Nuclear Physics Polish Academy of Sciences, and National Centre of Nuclear Research.  
 
 <!--
 
